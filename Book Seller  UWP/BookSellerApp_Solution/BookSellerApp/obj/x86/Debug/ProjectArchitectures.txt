@@ -1,0 +1,1 @@
+D:\GitHub\UWP-Project\Book Seller  UWP\BookSellerApp_Solution\BookSellerApp\BookSellerApp.csproj;x86
